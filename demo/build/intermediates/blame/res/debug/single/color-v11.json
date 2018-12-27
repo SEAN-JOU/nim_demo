@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\NB004\\Desktop\\NIM_Android_Demo_v5.8.0\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_light.xml",
+        "source": "C:\\Users\\NB004\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\471a76c312e7b7d8c65c4a2424a4de03\\res\\color-v11\\abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\NB004\\Desktop\\NIM_Android_Demo_v5.8.0\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_dark.xml",
+        "source": "C:\\Users\\NB004\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\471a76c312e7b7d8c65c4a2424a4de03\\res\\color-v11\\abc_background_cache_hint_selector_material_dark.xml"
+    }
+]

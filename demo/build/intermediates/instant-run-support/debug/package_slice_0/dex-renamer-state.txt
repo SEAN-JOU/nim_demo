@@ -1,0 +1,4 @@
+#Wed Nov 28 12:16:37 CST 2018
+base.0=C\:\\Users\\NB004\\Downloads\\NIM_Android_Demo_v5.8.0\\nim_demo\\demo\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+renamed.0=classes.dex
+file.0=C\:\\Users\\NB004\\Downloads\\NIM_Android_Demo_v5.8.0\\nim_demo\\demo\\build\\intermediates\\transforms\\dexMerger\\debug\\0\\classes.dex

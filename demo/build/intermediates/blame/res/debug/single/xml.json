@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\NB004\\Desktop\\NIM_Android_Demo_v5.8.0\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\xml\\provider_paths.xml",
+        "source": "C:\\Users\\NB004\\Desktop\\NIM_Android_Demo_v5.8.0\\nim_demo\\uikit\\build\\intermediates\\bundles\\debug\\res\\xml\\provider_paths.xml"
+    },
+    {
+        "merged": "C:\\Users\\NB004\\Desktop\\NIM_Android_Demo_v5.8.0\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\xml\\leak_canary_file_paths.xml",
+        "source": "C:\\Users\\NB004\\.gradle\\caches\\transforms-1\\files-1.1\\leakcanary-android-1.6.2.aar\\cbe28b7fd4151af767813b18e7b409ca\\res\\xml\\leak_canary_file_paths.xml"
+    },
+    {
+        "merged": "C:\\Users\\NB004\\Desktop\\NIM_Android_Demo_v5.8.0\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\xml\\nrtc_setting_pref.xml",
+        "source": "C:\\Users\\NB004\\Desktop\\NIM_Android_Demo_v5.8.0\\nim_demo\\avchatkit\\build\\intermediates\\bundles\\debug\\res\\xml\\nrtc_setting_pref.xml"
+    }
+]

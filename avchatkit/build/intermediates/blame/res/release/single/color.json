@@ -1,0 +1,98 @@
+[
+    {
+        "merged": "C:\\Users\\NB004\\Downloads\\NIM_Android_Demo_v5.8.0\\nim_demo\\avchatkit\\build\\intermediates\\res\\merged\\release\\color\\dsb_ripple_color_list.xml",
+        "source": "C:\\Users\\NB004\\.gradle\\caches\\transforms-1\\files-1.1\\discrete-seekbar-1.0.1.aar\\7cc77ee272d2196c8c06be1b64db60e3\\res\\color\\dsb_ripple_color_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\NB004\\Downloads\\NIM_Android_Demo_v5.8.0\\nim_demo\\avchatkit\\build\\intermediates\\res\\merged\\release\\color\\abc_tint_switch_track.xml",
+        "source": "C:\\Users\\NB004\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\9c6da2539ff5ac61cce312d813d5cf11\\res\\color\\abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "C:\\Users\\NB004\\Downloads\\NIM_Android_Demo_v5.8.0\\nim_demo\\avchatkit\\build\\intermediates\\res\\merged\\release\\color\\abc_secondary_text_material_dark.xml",
+        "source": "C:\\Users\\NB004\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\9c6da2539ff5ac61cce312d813d5cf11\\res\\color\\abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\NB004\\Downloads\\NIM_Android_Demo_v5.8.0\\nim_demo\\avchatkit\\build\\intermediates\\res\\merged\\release\\color\\abc_primary_text_material_dark.xml",
+        "source": "C:\\Users\\NB004\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\9c6da2539ff5ac61cce312d813d5cf11\\res\\color\\abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\NB004\\Downloads\\NIM_Android_Demo_v5.8.0\\nim_demo\\avchatkit\\build\\intermediates\\res\\merged\\release\\color\\abc_tint_spinner.xml",
+        "source": "C:\\Users\\NB004\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\9c6da2539ff5ac61cce312d813d5cf11\\res\\color\\abc_tint_spinner.xml"
+    },
+    {
+        "merged": "C:\\Users\\NB004\\Downloads\\NIM_Android_Demo_v5.8.0\\nim_demo\\avchatkit\\build\\intermediates\\res\\merged\\release\\color\\abc_tint_edittext.xml",
+        "source": "C:\\Users\\NB004\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\9c6da2539ff5ac61cce312d813d5cf11\\res\\color\\abc_tint_edittext.xml"
+    },
+    {
+        "merged": "C:\\Users\\NB004\\Downloads\\NIM_Android_Demo_v5.8.0\\nim_demo\\avchatkit\\build\\intermediates\\res\\merged\\release\\color\\abc_secondary_text_material_light.xml",
+        "source": "C:\\Users\\NB004\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\9c6da2539ff5ac61cce312d813d5cf11\\res\\color\\abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\NB004\\Downloads\\NIM_Android_Demo_v5.8.0\\nim_demo\\avchatkit\\build\\intermediates\\res\\merged\\release\\color\\abc_primary_text_disable_only_material_light.xml",
+        "source": "C:\\Users\\NB004\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\9c6da2539ff5ac61cce312d813d5cf11\\res\\color\\abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\NB004\\Downloads\\NIM_Android_Demo_v5.8.0\\nim_demo\\avchatkit\\build\\intermediates\\res\\merged\\release\\color\\abc_btn_colored_borderless_text_material.xml",
+        "source": "C:\\Users\\NB004\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\9c6da2539ff5ac61cce312d813d5cf11\\res\\color\\abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\NB004\\Downloads\\NIM_Android_Demo_v5.8.0\\nim_demo\\avchatkit\\build\\intermediates\\res\\merged\\release\\color\\switch_thumb_material_dark.xml",
+        "source": "C:\\Users\\NB004\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\9c6da2539ff5ac61cce312d813d5cf11\\res\\color\\switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\NB004\\Downloads\\NIM_Android_Demo_v5.8.0\\nim_demo\\avchatkit\\build\\intermediates\\res\\merged\\release\\color\\abc_btn_colored_text_material.xml",
+        "source": "C:\\Users\\NB004\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\9c6da2539ff5ac61cce312d813d5cf11\\res\\color\\abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\NB004\\Downloads\\NIM_Android_Demo_v5.8.0\\nim_demo\\avchatkit\\build\\intermediates\\res\\merged\\release\\color\\abc_primary_text_material_light.xml",
+        "source": "C:\\Users\\NB004\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\9c6da2539ff5ac61cce312d813d5cf11\\res\\color\\abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\NB004\\Downloads\\NIM_Android_Demo_v5.8.0\\nim_demo\\avchatkit\\build\\intermediates\\res\\merged\\release\\color\\switch_thumb_material_light.xml",
+        "source": "C:\\Users\\NB004\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\9c6da2539ff5ac61cce312d813d5cf11\\res\\color\\switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\NB004\\Downloads\\NIM_Android_Demo_v5.8.0\\nim_demo\\avchatkit\\build\\intermediates\\res\\merged\\release\\color\\abc_tint_seek_thumb.xml",
+        "source": "C:\\Users\\NB004\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\9c6da2539ff5ac61cce312d813d5cf11\\res\\color\\abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "C:\\Users\\NB004\\Downloads\\NIM_Android_Demo_v5.8.0\\nim_demo\\avchatkit\\build\\intermediates\\res\\merged\\release\\color\\abc_search_url_text.xml",
+        "source": "C:\\Users\\NB004\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\9c6da2539ff5ac61cce312d813d5cf11\\res\\color\\abc_search_url_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\NB004\\Downloads\\NIM_Android_Demo_v5.8.0\\nim_demo\\avchatkit\\build\\intermediates\\res\\merged\\release\\color\\design_error.xml",
+        "source": "C:\\Users\\NB004\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\3c24420ec181fe1c5b0e447ead54616d\\res\\color\\design_error.xml"
+    },
+    {
+        "merged": "C:\\Users\\NB004\\Downloads\\NIM_Android_Demo_v5.8.0\\nim_demo\\avchatkit\\build\\intermediates\\res\\merged\\release\\color\\abc_tint_default.xml",
+        "source": "C:\\Users\\NB004\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\9c6da2539ff5ac61cce312d813d5cf11\\res\\color\\abc_tint_default.xml"
+    },
+    {
+        "merged": "C:\\Users\\NB004\\Downloads\\NIM_Android_Demo_v5.8.0\\nim_demo\\avchatkit\\build\\intermediates\\res\\merged\\release\\color\\dsb_progress_color_list.xml",
+        "source": "C:\\Users\\NB004\\.gradle\\caches\\transforms-1\\files-1.1\\discrete-seekbar-1.0.1.aar\\7cc77ee272d2196c8c06be1b64db60e3\\res\\color\\dsb_progress_color_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\NB004\\Downloads\\NIM_Android_Demo_v5.8.0\\nim_demo\\avchatkit\\build\\intermediates\\res\\merged\\release\\color\\abc_hint_foreground_material_light.xml",
+        "source": "C:\\Users\\NB004\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\9c6da2539ff5ac61cce312d813d5cf11\\res\\color\\abc_hint_foreground_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\NB004\\Downloads\\NIM_Android_Demo_v5.8.0\\nim_demo\\avchatkit\\build\\intermediates\\res\\merged\\release\\color\\abc_tint_btn_checkable.xml",
+        "source": "C:\\Users\\NB004\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\9c6da2539ff5ac61cce312d813d5cf11\\res\\color\\abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "C:\\Users\\NB004\\Downloads\\NIM_Android_Demo_v5.8.0\\nim_demo\\avchatkit\\build\\intermediates\\res\\merged\\release\\color\\dsb_track_color_list.xml",
+        "source": "C:\\Users\\NB004\\.gradle\\caches\\transforms-1\\files-1.1\\discrete-seekbar-1.0.1.aar\\7cc77ee272d2196c8c06be1b64db60e3\\res\\color\\dsb_track_color_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\NB004\\Downloads\\NIM_Android_Demo_v5.8.0\\nim_demo\\avchatkit\\build\\intermediates\\res\\merged\\release\\color\\abc_hint_foreground_material_dark.xml",
+        "source": "C:\\Users\\NB004\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\9c6da2539ff5ac61cce312d813d5cf11\\res\\color\\abc_hint_foreground_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\NB004\\Downloads\\NIM_Android_Demo_v5.8.0\\nim_demo\\avchatkit\\build\\intermediates\\res\\merged\\release\\color\\abc_primary_text_disable_only_material_dark.xml",
+        "source": "C:\\Users\\NB004\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\9c6da2539ff5ac61cce312d813d5cf11\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\NB004\\Downloads\\NIM_Android_Demo_v5.8.0\\nim_demo\\avchatkit\\build\\intermediates\\res\\merged\\release\\color\\design_tint_password_toggle.xml",
+        "source": "C:\\Users\\NB004\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\3c24420ec181fe1c5b0e447ead54616d\\res\\color\\design_tint_password_toggle.xml"
+    }
+]

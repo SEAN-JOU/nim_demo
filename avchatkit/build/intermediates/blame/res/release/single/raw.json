@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\NB004\\Downloads\\NIM_Android_Demo_v5.8.0\\nim_demo\\avchatkit\\build\\intermediates\\res\\merged\\release\\raw\\avchat_ring.mp3",
+        "source": "C:\\Users\\NB004\\Downloads\\NIM_Android_Demo_v5.8.0\\nim_demo\\avchatkit\\src\\main\\res\\raw\\avchat_ring.mp3"
+    },
+    {
+        "merged": "C:\\Users\\NB004\\Downloads\\NIM_Android_Demo_v5.8.0\\nim_demo\\avchatkit\\build\\intermediates\\res\\merged\\release\\raw\\avchat_peer_reject.mp3",
+        "source": "C:\\Users\\NB004\\Downloads\\NIM_Android_Demo_v5.8.0\\nim_demo\\avchatkit\\src\\main\\res\\raw\\avchat_peer_reject.mp3"
+    },
+    {
+        "merged": "C:\\Users\\NB004\\Downloads\\NIM_Android_Demo_v5.8.0\\nim_demo\\avchatkit\\build\\intermediates\\res\\merged\\release\\raw\\avchat_no_response.mp3",
+        "source": "C:\\Users\\NB004\\Downloads\\NIM_Android_Demo_v5.8.0\\nim_demo\\avchatkit\\src\\main\\res\\raw\\avchat_no_response.mp3"
+    },
+    {
+        "merged": "C:\\Users\\NB004\\Downloads\\NIM_Android_Demo_v5.8.0\\nim_demo\\avchatkit\\build\\intermediates\\res\\merged\\release\\raw\\avchat_peer_busy.mp3",
+        "source": "C:\\Users\\NB004\\Downloads\\NIM_Android_Demo_v5.8.0\\nim_demo\\avchatkit\\src\\main\\res\\raw\\avchat_peer_busy.mp3"
+    },
+    {
+        "merged": "C:\\Users\\NB004\\Downloads\\NIM_Android_Demo_v5.8.0\\nim_demo\\avchatkit\\build\\intermediates\\res\\merged\\release\\raw\\avchat_connecting.mp3",
+        "source": "C:\\Users\\NB004\\Downloads\\NIM_Android_Demo_v5.8.0\\nim_demo\\avchatkit\\src\\main\\res\\raw\\avchat_connecting.mp3"
+    }
+]
